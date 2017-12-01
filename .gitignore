@@ -1,0 +1,4 @@
+node_modules/
+commands.txt
+dist/*
+.idea/

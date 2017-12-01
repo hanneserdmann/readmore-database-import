@@ -1,0 +1,22 @@
+{
+  "name": "readmore-database-import",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thextor",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/es6-promise": "0.0.33",
+    "@types/greasemonkey": "0.0.28",
+    "@types/node": "^8.0.34",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-typescript": "^3.2.2",
+    "run-sequence": "^2.2.0",
+    "typescript": "^2.5.3"
+  }
+}

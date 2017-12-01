@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "target": "es5",
+    "sourceMap": true,
+    "outFile": "typescript-compiled.js"
+  },
+  "exclude": [
+    "node_modules",
+    "source",
+    ".idea"
+  ],
+  "baseUrl": "types",
+  "typeRoots": ["types"],
+  "compileOnSave": false
+}
